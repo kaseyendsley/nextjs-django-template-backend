@@ -1,7 +1,7 @@
 # Next.js + Django Fullstack Template (Backend)
 
 This is the **Django + Django REST Framework** backend template for full-stack projects.  
-It is designed to be used with a Next.js + TypeScript frontend (link to be provided).
+It is designed to be used with a [Next.js + TypeScript frontend template](https://github.com/kaseyendsley/nextjs-django-template-frontend).
 
 ---
 
